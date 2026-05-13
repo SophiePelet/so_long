@@ -56,3 +56,7 @@ Troubleshooting
 Contributing / Credits
 ----------------------
 This is a 42 school project. The bundled `mlx_linux/` was cloned from 42 school's repository and is designed for Ubuntu systems.
+
+Grade
+-----
+112/100
